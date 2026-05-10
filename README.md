@@ -1,29 +1,21 @@
-<!-- █████████████████████████████████████████████████████ -->
-<!--                  NEON CYBERPUNK README               -->
-<!-- █████████████████████████████████████████████████████ -->
-
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=soft&height=430&section=header&text=MIGUEL%20JAEN&fontSize=78&fontColor=00F5FF&animation=fadeIn&fontAlignY=32&desc=AI%20AUTOMATION%20ENGINEER%20%20✦%20%20VOICE%20AI%20SPECIALIST&descAlignY=58&descSize=22&descColor=B9C7FF&color=0:01020A,12:02040F,24:040812,36:06101E,48:0B1220,60:111827,72:1A1033,84:2B0F4A,100:050816"
-    width="100%"
+  <img 
+    src="https://capsule-render.vercel.app/api?type=venom&color=000000&height=180&section=header&text=MIGUEL%20JAEN&fontSize=48&fontColor=1D4ED8&animation=twinkling&fontAlignY=42&desc=AI%20AUTOMATION%20ENGINEER%20%7C%20VOICE%20AI%20SPECIALIST&descAlignY=70&descSize=18" 
+    width="100%" 
+    alt="Miguel Jaen header" 
   />
 </p>
 
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=10&section=header&color=0:00F5FF,18:0EA5E9,36:1D4ED8,54:7C3AED,72:FF00FF,88:3B0764,100:050816"
-    width="100%"
+  <img 
+    src="https://capsule-render.vercel.app/api?type=rect&color=1D4ED8&height=4" 
+    width="100%" 
+    alt="neon divider" 
   />
 </p>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=900&color=00F5FF&center=true&vCenter=true&width=1100&lines=%3E+Initializing+AI+Infrastructure...;%3E+Deploying+LLM+Automation+Systems;%3E+Building+Conversational+Agents;%3E+Voice+AI+%7C+n8n+%7C+Backend+Engineering"
-  />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20ENGINEERING-00F5FF?style=for-the-badge&logo=openai&logoColor=black&labelColor=070B18" />
+  <img src="https://img.shields.io/badge/AI%20ENGINEERING-1D4ED8?style=for-the-badge&logo=openai&logoColor=white&labelColor=070B18" />
   <img src="https://img.shields.io/badge/VOICE%20AI-7C3AED?style=for-the-badge&logo=googleassistant&logoColor=white&labelColor=070B18" />
   <img src="https://img.shields.io/badge/AUTOMATION-FF00FF?style=for-the-badge&logo=n8n&logoColor=white&labelColor=070B18" />
 </p>
@@ -32,36 +24,17 @@
   <img src="https://skillicons.dev/icons?i=python,php,nodejs,java,cs,docker,aws,firebase,linux&theme=dark" />
 </p>
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=2&section=footer&color=0:00F5FF,25:1D4ED8,50:7C3AED,75:FF00FF,100:050816"
-    width="100%"
-  />
-</p>
-
-<p align="center">
-  <code style="background:#050816;color:#00F5FF;padding:8px 14px;border-radius:10px;">
-    const stack = ["LLMs", "n8n", "Python", "PHP", "Voice AI"];
-  </code>
-</p>
-
-<p align="center">
-  <code style="background:#050816;color:#B9C7FF;padding:8px 14px;border-radius:10px;">
-    function build(agent) { return scalable, clean, intelligent; }
-  </code>
-</p>
-
 ---
 
 # Hi 👋, I'm Miguel Jaen
 
 I am an **AI Automation Engineer & Voice AI Integrations Specialist** focused on designing and deploying conversational agents powered by **Large Language Models (LLMs)**.
 
-I specialize in building end-to-end automation systems using technologies such as **Retell AI**, **n8n**, and custom backend development with **Python** and **PHP** to orchestrate scalable workflows and intelligent services.
+I build end-to-end automation systems using **Retell AI**, **n8n**, and custom backend development with **Python** and **PHP**, creating scalable workflows and intelligent services.
 
 I also develop microservices and API pipelines that connect platforms like **WhatsApp**, **HubSpot**, and **ActiveCampaign** with enterprise CRMs and internal systems.
 
-My background in **Multiplatform Application Development** allows me to approach automation with a strong engineering mindset focused on scalability, performance, and clean architecture.
+My background in **Multiplatform Application Development** gives me a strong engineering mindset focused on scalability, performance, and clean architecture.
 
 ---
 
@@ -101,14 +74,13 @@ My background in **Multiplatform Application Development** allows me to approach
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=MiguelJaen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00F5FF&icon_color=FF00FF&text_color=FFFFFF"
-    height="180"
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=MiguelJaen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00F5FF&icon_color=FF00FF&text_color=FFFFFF" 
+    height="165" 
   />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelJaen&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00F5FF&text_color=FFFFFF"
-    height="180"
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelJaen&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00F5FF&text_color=FFFFFF" 
+    height="165" 
   />
 </p>
 
@@ -117,8 +89,9 @@ My background in **Multiplatform Application Development** allows me to approach
 ## 🔥 Contribution Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=MiguelJaen&theme=tokyonight_duo&hide_border=true&background=050816&ring=00F5FF&fire=FF00FF&currStreakLabel=00F5FF"
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=MiguelJaen&theme=tokyonight_duo&hide_border=true&background=050816&ring=00F5FF&fire=FF00FF&currStreakLabel=00F5FF" 
+    alt="GitHub streak stats" 
   />
 </p>
 
@@ -139,5 +112,5 @@ My background in **Multiplatform Application Development** allows me to approach
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
