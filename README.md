@@ -2,9 +2,9 @@
 
 # Hi 👋, I'm Miguel Jaen
 
-[cite_start]💻 I am an **AI Automation Engineer & Voice AI Integrations Specialist** with a strong focus on designing and deploying conversational agents based on Large Language Models (LLMs)[cite: 5, 8, 11]. [cite_start]I specialize in end-to-end integration solutions, combining tools like **Retell AI, n8n, and custom backend development** in Python and PHP to orchestrate complex data flows and automated services[cite: 6, 11, 14, 15].
+[cite_start]I am an **AI Automation Engineer & Voice AI Integrations Specialist** with a strong focus on designing and deploying conversational agents based on Large Language Models (LLMs). [cite: 5, 8, 11] [cite_start]I specialize in end-to-end integration solutions, combining tools like **Retell AI, n8n, and custom backend development** in Python and PHP to orchestrate complex data flows and automated services. [cite: 6, 11, 14, 15]
 
-[cite_start]I have extensive experience building functional microservices and automated pipelines that connect APIs (WhatsApp, HubSpot, ActiveCampaign) with enterprise CRMs[cite: 14, 16]. [cite_start]My technical background in Multiplatform Application Development allows me to approach automation with a robust engineering perspective, ensuring scalable and efficient deployments[cite: 21, 35].
+[cite_start]I have extensive experience building functional microservices and automated pipelines that connect APIs (WhatsApp, HubSpot, ActiveCampaign) with enterprise CRMs. [cite: 14, 16] [cite_start]My technical background in Multiplatform Application Development allows me to approach automation from a robust engineering perspective, ensuring scalable and efficient deployments. [cite: 21, 35]
 
 ---
 
@@ -26,14 +26,14 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MiguelJaen&show_icons=true&theme=radical&hide_border=true" alt="Miguel's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MiguelJaen&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
 </p>
 
 ---
 
 ### 📫 Connect with me
-* [cite_start]**LinkedIn:** [linkedin.com/in/miguel-j-780ba312b](https://linkedin.com/in/miguel-j-780ba312b) 
+* [cite_start]**LinkedIn:** [linkedin.com/in/miguel-j-780ba312b](https://linkedin.com/in/miguel-j-780ba312b) [cite: 32]
 * [cite_start]**Email:** [mjaenleyv@gmail.com](mailto:mjaenleyv@gmail.com) [cite: 2]
